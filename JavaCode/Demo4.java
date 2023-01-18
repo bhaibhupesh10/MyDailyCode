@@ -1,5 +1,6 @@
 public class Demo4 {
     public static void main(String[] args)
+
       {
         boolean is_married = true;
         {
