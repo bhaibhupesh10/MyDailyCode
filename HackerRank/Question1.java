@@ -27,5 +27,15 @@ public class Question1
         System.out.println("Hello, World.");
         System.out.println("Hello, Java.");
 
+        System.out.printf("%9d%n",12345);
+
+
+
+
+
+
+
+
+
     }
 }
