@@ -13,10 +13,8 @@ public class reverseStrFormula {
             char backface = str.charAt(back);
             str.setCharAt(front,backface);
             str.setCharAt(back, frontface);
-            System.out.println(str);
         }
-
-
+            System.out.println(str);
 
     }
 }
