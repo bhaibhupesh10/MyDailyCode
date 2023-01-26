@@ -1,2 +1,5 @@
 print('Bhupesh Choudhary')
 print("Bhupesh Choudhary")
+takeInput = input("Please enter value")
+print(takeInput)
+print(takeInput)
